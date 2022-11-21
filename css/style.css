@@ -115,14 +115,15 @@ nav {
   justify-content: space-between;
   gap: 50px;
 }
-.contact-list-element:hover {
+.contacts:hover {
   color: var(--blue-color);
-  stroke: var(--blue-color);
+  fill: var(--blue-color);
 }
 .contacts:focus {
   color: var(--blue-color);
-  stroke: var(--blue-color);
+  fill: var(--blue-color);
 }
+
 .container {
   width: 1200px;
   margin: auto;
@@ -169,6 +170,7 @@ nav {
   letter-spacing: 0.02em;
   text-align: left;
   color: var(--description-color);
+  fill: var(--description-color);
   text-decoration: none;
 }
 
