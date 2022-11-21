@@ -64,13 +64,7 @@ nav {
     url(../images/Img.jpg);
   background-repeat: round;
 }
-.gallery-element {
-  /* background-image: url(../images/Img.jpg);
-  width: 100%;
-  height: 600px;
-  background-size: cover;
-  background-position: 100%; */
-}
+
 .lorem-list {
   margin: 0;
   justify-content: space-between;
